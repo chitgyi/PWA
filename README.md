@@ -1,5 +1,6 @@
 # Quasar App
 
-## you need to install quasar-cli & vue-cli
+## You need to install quasar-cli & vue-cli
 > npm install
+## Run App
 > quasar dev
