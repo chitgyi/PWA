@@ -1,3 +1,5 @@
 # Quasar App
 
-> WIP
+##you need to install quasar-cli & vue-cli
+>npm install
+>quasar dev
